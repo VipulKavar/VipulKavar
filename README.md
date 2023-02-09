@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VipulKavar
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Django.
+- 🌱 Django Developer.
 - 📫 How to reach me on mail (vipulkavar@gmail.com).
 
 <!---
