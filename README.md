@@ -52,12 +52,6 @@ I've had the pleasure of working on a variety of exciting projects. Here are a f
 
 My unique background in mechanical engineering provides me with strong analytical and problem-solving skills that I now apply to software development and algorithmic trading. This diverse experience allows me to approach technical challenges from multiple perspectives.
 
-## 📫 Let's Connect
-
-I'm always open to connect with fellow developers, traders, tech enthusiasts, and creative minds. Feel free to reach out through the following channels:
-
-- Email: **vipulkavar@gmail.com**
-- GitHub: **@VipulKavar**
 
 ## 📫 Let's Connect
 I'm always open to connect with fellow developers, traders, tech enthusiasts, and creative minds. Feel free to reach out through the following channels:
