@@ -60,7 +60,7 @@ I'm always open to connect with fellow developers, traders, tech enthusiasts, an
   <a href="mailto:vipulkavar@gmail.com"><img src="https://img.shields.io/badge/Email-vipulkavar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/VipulKavar"><img src="https://img.shields.io/badge/GitHub-VipulKavar-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/vipul-kavar/"><img src="https://img.shields.io/badge/LinkedIn-Vipul%20Kavar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://vipulkavar.dev"><img src="https://img.shields.io/badge/Portfolio-vipulkavar.dev-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/></a>
+  <a href="[vipul kavar portfolio](https://vipul-kavar.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-vipulkavar.dev-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 
