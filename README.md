@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm **Vipul Kavar**, a passionate **full-stack sof
 - Agile Methodology: **Jira**, **Trello**
 - Third Party Tools: **AWS**, **Twilio**, **Stripe**, **LLM**
 - Trading: **Algo Trading Systems**, **Market Data APIs**
+- OS: **Ubuntu(Linux)**, **Windows**
 
 ## 🌱 Currently Learning & Exploring
 
