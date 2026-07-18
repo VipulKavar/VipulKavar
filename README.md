@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm **Vipul Kavar**, a passionate **full-stack dev
 - **Messaging & Queues**: **Redis**, **RabbitMQ**, **Celery**, **Pub/Sub**, **AWS SQS**, **AWS EventBridge**
 - **Cloud & DevOps**: **AWS (Lambda, S3, ECS, SES)**, **Docker**, **Git**
 - **Databases**: **PostgreSQL**, **MongoDB**
-- **Third-Party**: **Stripe**, **Twilio**
-- **Testing**: **PyTest**
 - **OS**: **Ubuntu (Linux)**, **Windows**
 
 ## 🌱 Currently Learning & Exploring
@@ -45,7 +43,7 @@ I've worked on a range of AI-powered and full-stack projects — most are profes
 2. **ShareMarket AI Bot (FinTech)**: RAG-powered chatbot that answers stock-market questions from a PDF knowledge base using **Pinecone embeddings + ChatGPT**, with **Stripe** subscriptions.
 3. **InfoSummarize AI**: Extracts and summarizes content from YouTube, blogs, and news APIs, then converts summaries to audio.
 4. **Algo Trading**: Distributed trading system implementing custom strategies with **Redis, RabbitMQ, Celery, and Pub/Sub**.
-5. **[AI/ML Samples](https://github.com/VipulKavar/ai-ml-sample)**: Public samples including face recognition, recommendation systems, and sentiment analysis.
+5. **AI/ML Samples**: Public samples including face recognition, recommendation systems, and sentiment analysis.
 
 ## 🎯 Professional Journey
 
