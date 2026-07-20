@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Vipul Kavar" width="700"/>
+  <img src="cover-image2.png" alt="Vipul Kavar" width="900"/>
+  <!-- <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Vipul Kavar" width="700"/> -->
 </p>
 
 # Hey there, I'm Vipul Kavar 👋
